@@ -4,13 +4,15 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Table of contents
 
-
+  - [Project published link](#the-Project-published-link)
   - [The goal](#the-goal)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
+
+### Project published link : https://ajinkya9834.github.io/Clipboard-landing-page-practice/
 
 ### The goal
 
