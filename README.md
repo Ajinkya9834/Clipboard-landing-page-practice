@@ -5,7 +5,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ## Table of contents
 
 
-  - [The challenge](#the-challenge)
+  - [The goal](#the-goal)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -49,11 +49,11 @@ Users should be able to:
 
   - Also learned how to make web-page with writing minimun code.
 
-  
+
   
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Ajinkya9834)
+- Frontend Mentor (see other completed challenges)- (https://www.frontendmentor.io/profile/Ajinkya9834)
 - My LinkedIn Profile - (www.linkedin.com/in/ajinkya-hajare)
 
